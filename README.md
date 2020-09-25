@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 https://nppackages.github.io/replication
 
-## Empirical Application: Head Start Data
+## Empirical Application: JTPA Data
 
 - Source: Abadie, Angrist and Imbens (2002): [Instrumental Variables Estimates of the Effect of Subsidized Training on the Quantiles of Trainee Earnings](https://doi.org/10.1111/1468-0262.00270), _Econometrica_ 70(1): 91-117.
 
