@@ -18,8 +18,8 @@ https://nppackages.github.io/replication
 
 ## Reference
 
-- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE.pdf).<br>
-Working paper.<br>
-[Supplemental appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplement.pdf).
+- Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2021_JoE.pdf).<br>
+_Journal of Econometrics_, forthcoming.<br>
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2021_JoE--Supplement.pdf).
 
 <br><br>
