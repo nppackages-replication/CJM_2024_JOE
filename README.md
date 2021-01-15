@@ -12,9 +12,9 @@ https://nppackages.github.io/replication
 
 - Dataset: [csv](jtpa.csv) | [dta](jtpa.dta)
 
-- R implementation: [main](CJM_2020_JoE.R)
+- R implementation: [main](CJM_2021_JoE.R)
 
-- Stata implementation: [main](CJM_2020_JoE.do)
+- Stata implementation: [main](CJM_2021_JoE.do)
 
 ## Reference
 
