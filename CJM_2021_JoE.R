@@ -1,7 +1,7 @@
 ######################################################################
 # Local Regression Distribution Estimators -- Replication
 # M.D. Cattaneo, M. Jansson, X. Ma
-# 24-SEP-2020
+# Jan 27, 2021
 ######################################################################
 
 rm(list=ls())
@@ -14,14 +14,8 @@ library(lpdensity)
 
 jtpa <- read.csv("jtpa.csv", header=TRUE) # load data
 
-set.seed(42) # seed for simulating critical values to construct confidence bands
-
-# NOTE: if you are using RDDENSITY version 2020 or newer, the option 
-# masspoints=FALSE may be needed to replicate the results in the monograph.
-# For example:
-#    out = rddensity(X)
-# should be replaced by:
-#    out = rddensity(X, masspoints=FALSE)
+set.seed(42) 
+# seed for simulating critical values which is used to construct confidence bands
 
 #################################################################################
 # Summary Statistics

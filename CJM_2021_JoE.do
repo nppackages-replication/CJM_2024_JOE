@@ -1,7 +1,7 @@
 ********************************************************************************
 * Local Regression Distribution Estimators -- Replication
 * M.D. Cattaneo, M. Jansson, X. Ma
-* 24-SEP-2020
+* Jan 27, 2021
 ********************************************************************************
 
 * net install lpdensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
