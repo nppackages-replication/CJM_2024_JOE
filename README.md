@@ -1,4 +1,4 @@
-# Cattaneo, Jansson and Ma (2023, JoE)
+# Cattaneo, Jansson and Ma (2024, JoE)
 
 This work was supported in part by the National Science Foundation through grants [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662) and [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805).
 
@@ -12,18 +12,18 @@ https://nppackages.github.io/replication
 
 - Dataset: [csv](jtpa.csv) | [dta](jtpa.dta)
 
-- Python: [main](CJM_2021_JoE.py)
+- Python: [main](CJM_2024_JoE.py)
 
-- R: [main](CJM_2021_JoE.R)
+- R: [main](CJM_2024_JoE.R)
 
-- Stata: [main](CJM_2021_JoE.do)
+- Stata: [main](CJM_2024_JoE.do)
 
-- Mathematica: [main](CJM_2021_JoE.nb)
+- Mathematica: [main](CJM_2024_JoE.nb)
 
 ## Reference
 
-- Cattaneo, Jansson and Ma (2023): [Local Regression Distribution Estimators](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2023_JoE.pdf).<br>
-_Journal of Econometrics_, forthcoming.<br>
-[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2023_JoE--Supplement.pdf).
+- Cattaneo, Jansson and Ma (2024): [Local Regression Distribution Estimators](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2024_JoE.pdf).<br>
+_Journal of Econometrics_ 240(2): 105074.<br>
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2024_JoE--Supplement.pdf).
 
 <br><br>
